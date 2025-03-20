@@ -1,0 +1,4 @@
+﻿  Kalkulator12.cpp
+C:\Users\nakpi\OneDrive\Pulpit\PO sem2\Kalkulator12\Kalkulator12\Kalkulator12.cpp(33,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\nakpi\OneDrive\Pulpit\PO sem2\Kalkulator12\Kalkulator12\Kalkulator12.cpp(34,8): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  Kalkulator12.vcxproj -> C:\Users\nakpi\OneDrive\Pulpit\PO sem2\Kalkulator12\x64\Debug\Kalkulator12.exe
