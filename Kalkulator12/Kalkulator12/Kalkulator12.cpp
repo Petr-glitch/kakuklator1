@@ -40,6 +40,8 @@ double mod(double a, double b)                        //problem ze zmiana double
 	else
 		return c % d;
 }
+//double modul(double a, double b) { 
+	//return a - (int)(a / b) * b
 void reset()
 {
 	use = true;
